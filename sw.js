@@ -5,7 +5,7 @@ const CACHE_ELEMENTS = [
     "https://unpkg.com/react-dom@17/umd/react-dom.development.js",
     "https://unpkg.com/@babel/standalone/babel.min.js",
     "./style.css",
-    "./components/Contador.js"
+    "./components/contador.js"
 ]
 //Definimos el nombredel Cache
 const CACHE_NAME = "v1_cache_contador_react";
